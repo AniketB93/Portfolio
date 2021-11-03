@@ -1,6 +1,6 @@
 title: <p align="center">Aniket Badeker</p>
 logo: /assets/img/aniket.png
 description: Software Engineer at Crest Test Systems Pvt Ltd 
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
