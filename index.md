@@ -1,123 +1,24 @@
----
-layout: default
----
+# Data Science Portfolio
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Machine Learning
 
-[Link to another page](./another-page.html).
+### 1. Stock Price Prediction using Machine Learning
 
-There should be whitespace between paragraphs.
+> This machine learning project aims to predict the future price of the stock market based on the previous year’s data.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<center><img src = "assets/images/stock-price-prediction-using-ML.jpg"></center>
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+*   Predictive Analysis: Leveraging various AI techniques for different data processes such as data mining, data exploration, etc. to ‘predict’ the behaviour of possible outcomes.
+*   Regression Analysis: Regressive analysis is a kind of predictive technique based on the interaction between a dependent (target) and independent variable/s (predictor).
+*   Action Analysis: In this method, all the actions carried out by the two techniques mentioned above are analyzed after which the outcome is fed into the machine learning memory.
+*   Statistical Modeling: It involves building a mathematical description of a real-world process and elaborating the uncertainties, if any, within that process.  
 
 
-### Definition lists can be used with HTML syntax.
+### 2. Enhance Healthcare
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+> This machine learning Enhance Healthcare project aims to perdict diseases and possibilities of epidemics.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+<center><img src = "assets/images/shutterstock_574043182-768x512.jpg"></center>
 
-```
-The final element.
-```
+*   Diagnostic care systems that can automatically scan images, X-rays, etc., and provide an accurate diagnosis of possible diseases.
+*   Preventative care applications that can predict the possibilities of epidemics such as flu, malaria, etc., both at the national and community level.
