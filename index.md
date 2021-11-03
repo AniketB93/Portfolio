@@ -6,7 +6,7 @@
 
 > This machine learning project aims to predict the future price of the stock market based on the previous year’s data.
 
-<center><img src = "assets/images/stock-price-prediction-using-ML.jpg"></center>
+<center><img src = "assets/img/stock-price-prediction-using-ML.jpg"></center>
 
 *   Predictive Analysis: Leveraging various AI techniques for different data processes such as data mining, data exploration, etc. to ‘predict’ the behaviour of possible outcomes.
 *   Regression Analysis: Regressive analysis is a kind of predictive technique based on the interaction between a dependent (target) and independent variable/s (predictor).
@@ -18,7 +18,7 @@
 
 > This machine learning Enhance Healthcare project aims to perdict diseases and possibilities of epidemics.
 
-<center><img src = "assets/images/shutterstock_574043182-768x512.jpg"></center>
+<center><img src = "assets/img/shutterstock_574043182-768x512.jpg"></center>
 
 *   Diagnostic care systems that can automatically scan images, X-rays, etc., and provide an accurate diagnosis of possible diseases.
 *   Preventative care applications that can predict the possibilities of epidemics such as flu, malaria, etc., both at the national and community level.
